@@ -30,8 +30,8 @@ HangmanStatus = 0
 
 # Title and Icon
 pygame.display.set_caption("The Hangman Game")
-#icon = pygame.image.load("hangman.png")
-#pygame.display.set_icon(icon)
+icon = pygame.image.load("hangman.png")
+pygame.display.set_icon(icon)
 
 
 # create the screen
